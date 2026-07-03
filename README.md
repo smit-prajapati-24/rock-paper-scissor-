@@ -13,11 +13,12 @@ This project is a beginner-friendly C game where the player plays against the co
 
 ## How to Run
 1. Compile the program using a C compiler:
-command:gcc main.c
+command:   gcc main.c
 Then press Enter
 After this step check in folder whether a.exe was there or not.
 2. Run the executable:
-   Command:./a.exe
+   Command: ./a.exe
+   
    Enjoy the game!!
 
 ## Notes
